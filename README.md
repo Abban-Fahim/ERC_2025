@@ -1,0 +1,1 @@
+Repository containging software and other design files for our submission to the [Emirates Robotics Competition (2025)](https://info.aus.edu/erc-2024).
